@@ -1,0 +1,10 @@
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\bin\Debug\AccountOperationAppPractice1.exe.config
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\bin\Debug\AccountOperationAppPractice1.exe
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\bin\Debug\AccountOperationAppPractice1.pdb
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.csprojAssemblyReference.cache
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.AccountOperationUi.resources
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.Properties.Resources.resources
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.csproj.GenerateResource.cache
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.csproj.CoreCompileInputs.cache
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.exe
+C:\Users\arifu\OneDrive\Desktop\Assignment\AccountOperationApp1-master\AccountOperationAppPractice1\obj\Debug\AccountOperationAppPractice1.pdb
